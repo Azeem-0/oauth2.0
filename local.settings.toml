@@ -1,0 +1,9 @@
+port = 3000
+
+[oauth.google]
+client_id = "your_client_id"
+client_secret = "your_client_secret"
+info_url = "google_info_url"
+auth_url = "google_auth_url"
+token_url = "google_token_url"
+redirect_uri = "your_redirect_uri"
